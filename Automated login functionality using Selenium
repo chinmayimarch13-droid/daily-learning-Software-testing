@@ -1,0 +1,25 @@
+# 🔐 Selenium Login Automation Project
+
+## 📌 Project Overview
+This project automates the login functionality of a web application using Selenium WebDriver with Python. It demonstrates basic automation testing concepts including element identification, synchronization, and validation.
+
+---
+
+## 🛠️ Tools & Technologies Used
+- Python
+- Selenium WebDriver
+- VS Code
+- Git & GitHub
+
+---
+
+## 🚀 Features Implemented
+- Automated login functionality using Selenium WebDriver with Python
+- Interacted with web elements like username, password fields, and login button
+- Used locator strategies such as ID, XPath, and CSS Selectors
+- Handled synchronization issues using implicit and explicit waits
+- Validated login success using page verification
+
+---
+
+## 📂 Project Structure
