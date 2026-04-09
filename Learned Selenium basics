@@ -1,0 +1,7 @@
+## What I Learned
+- Learned Selenium WebDriver basics for web automation
+- Automated login functionality using Selenium with Python
+- Used different locator strategies (ID, XPath, CSS Selectors)
+- Handled synchronization issues using implicit and explicit waits
+- Performed basic test validation and result checking
+- Gained hands-on experience in browser automation
