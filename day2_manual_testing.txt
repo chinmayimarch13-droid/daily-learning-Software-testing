@@ -1,0 +1,53 @@
+# 🧪 Day 2 - Manual Testing Practice
+
+## 📌 Objective
+To understand and practice manual testing on a login functionality.
+
+---
+
+## ✅ Activities Performed
+- Practiced manual testing on a login page
+- Wrote test cases for login functionality
+- Explored valid and invalid test scenarios
+
+---
+
+## 🧪 Test Scenarios Covered
+
+### ✔ Valid Scenario
+- Login with correct username and password
+- Expected: User should login successfully
+
+### ❌ Invalid Scenarios
+- Incorrect password
+- Incorrect username
+- Empty username and password
+- Special characters input
+
+---
+
+## 📝 Sample Test Case
+
+Test Case ID: TC_001  
+Title: Verify login with valid credentials  
+
+Steps:
+1. Enter valid username  
+2. Enter valid password  
+3. Click login  
+
+Expected Result:
+User should login successfully  
+
+---
+
+## 🧠 Learning Outcomes
+- Understood how manual testing works in real projects
+- Learned how to write structured test cases
+- Gained knowledge of valid and invalid scenarios
+- Improved analytical thinking for finding bugs
+
+---
+
+## 🔗 Application Tested
+https://the-internet.herokuapp.com/login
